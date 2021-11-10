@@ -30,7 +30,7 @@
 6. Чтобы завершить консольный сеанс, я нажимаю CTRL+D.
 7. Чтобы переключиться на графический интерфейс, я использую комбинацию CTRL+ALT+F7.
 8. Ознакомился с менеджером рабочих столов.(UBUNTU  запускается по умолчанию версия GNOME).
-![](https://raw.githubusercontent.com/massibu/image/main/image4/j.png)
+![](https://raw.githubusercontent.com/massibu/image/main/image4/n.png)
 ![](https://raw.githubusercontent.com/massibu/image/main/image4/i.png
 )
 9. Поочерёдно зарегистрировался в разных графических менеджерах рабочих столов (XFCE, GNOME, PLASMA kde) и оконных менеджерах (Openbox). Графические менеджеры , которые установленны на моем компьютере: GNOME, Xfce , UBUNTU wayland, Openbox, Plasma kde.
